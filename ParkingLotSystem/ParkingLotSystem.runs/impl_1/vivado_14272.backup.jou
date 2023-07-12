@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Apr 19 09:50:41 2023
+# Process ID: 14272
+# Current directory: C:/Users/alexd/OneDrive/2023 Uni Stuff/Embedded Computing Systems/Project Files/FinalFinalProject/FinalFinalProject.runs/impl_1
+# Command line: vivado.exe -log Car_Parking_System_VHDL.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Car_Parking_System_VHDL.tcl -notrace
+# Log file: C:/Users/alexd/OneDrive/2023 Uni Stuff/Embedded Computing Systems/Project Files/FinalFinalProject/FinalFinalProject.runs/impl_1/Car_Parking_System_VHDL.vdi
+# Journal file: C:/Users/alexd/OneDrive/2023 Uni Stuff/Embedded Computing Systems/Project Files/FinalFinalProject/FinalFinalProject.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Car_Parking_System_VHDL.tcl -notrace
